@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+// add representation for time slots
 public class Course {
 
     private String name;
